@@ -3,7 +3,7 @@
 
 This repository contains the supporting code for my Portfolio
 
-[unsplash.jpg](https://www.youtube.com/)
+unsplash.jpg
 
 ## Supporting Documentation
 
