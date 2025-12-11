@@ -1,9 +1,7 @@
 
 # My Portfolio
 
-This repository contains the supporting code for my Portfolio
-
-unsplash.jpg
+This repository contains the supporting code for my [Portfolio](https://case-study.hashnode.dev/)
 
 ## Supporting Documentation
 
